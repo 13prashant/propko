@@ -3,7 +3,7 @@ import { Button } from "../ui/button";
 
 export default function HeroSection() {
   return (
-    <section className="pk-container flex flex-col-reverse gap-10 md:flex-row items-center duration-300">
+    <section className="pk-container flex flex-col-reverse gap-10 md:flex-row md:items-center duration-300">
       <div className="">
         <h2 className="text-primary text-4xl md:text-6xl font-extrabold cr-text-gradient duration-300">
           Smart property search
